@@ -1,0 +1,9 @@
+File containing student details
+Lastname  Firstname ID# YearOfBirth GPA
+----------------------------------------
+Fast A 20212221 1999 3.2
+Bond D 20201236 2000 1.0
+Hero F 20193476 2002 4.0
+Kaur G 20211122 1998 2.2
+Rich X 20225412 2002 3.9
+Fong G 20040229 2004 3.0
